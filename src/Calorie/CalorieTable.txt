@@ -1,0 +1,9 @@
+categories      Food(100g)      calories(kcal)  proteins(grams) fat(grams) carbohydrate(grams)
+eggs            BoiledEgg       155             12,5            10.6        1.1
+vegetables      Broccoli        33              3.56            0.2         2.66
+cereal          BrownRice       112             2.3             0.8         21.7
+vegetables      Cabbage         30.2            1.38            0.2         4.18
+meat            Chicken(breast) 145             22              6.2         0
+meat            Chicken(wings)  217             18.33           15.97       0
+cereal          JasmineRice     103             2.1             0.3         28.3
+mushrooms       Mushroom        33.56           4.25            1.2         0.54
