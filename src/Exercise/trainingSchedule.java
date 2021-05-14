@@ -22,12 +22,6 @@ public class trainingSchedule {
         loadFromFile();
     }
 
-    //TODO új osztályt csinálni, amely tartalmaz egy listát, valamint boolean változókat, hogy chest, back stb. szabad-e
-    //TODO bekérni, hogy melyik napra szeretné az adott gyakorlatot tenni, majd ha nincs olyan objektum, akkor létrehozni
-    //TODO pl hétfő nevű objektum listájába belerakni és boolean isChestNextDayAvailable-t false-ra állitani
-    //TODO keddnél megnézni, hogy hétfő isChestNextDayAvailable false, akkor keddre nem lehet rakni
-    //TODO done.
-
     public void loadFromFile(){
         String filePath = "src\\Exercise\\Exercises.txt";
         File file = new File(filePath);

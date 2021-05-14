@@ -124,6 +124,6 @@ public class DailyPlan {
     }
 
     public String multipleDaysError(){
-        return "You can't train legs multiple days in a row.";
+        return "You can't train same muscle group multiple days in a row.";
     }
 }

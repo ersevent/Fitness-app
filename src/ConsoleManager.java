@@ -20,7 +20,7 @@ public class ConsoleManager {
         }
     }
 
-    public String login(String input) {        //TODO ha nem sikerült a bejelentkezés akkor új felhasználót regisztrálni???
+    public String login(String input) {
         boolean isMatched = false;
 
         Scanner sc = new Scanner(System.in);
